@@ -1,0 +1,13 @@
+{
+  "name": "RezoScans Extension Repo",
+  "description": "Custom Paperback extension for RezoScans",
+  "extensions": [
+    {
+      "name": "RezoScans",
+      "file": "RezoScans.ts",
+      "language": "ENGLISH",
+      "version": "1.0.0",
+      "id": "rezoscan"
+    }
+  ]
+}
